@@ -1,0 +1,14 @@
+Assignment Lab1
+Date: June 2nd 2022
+
+Group members:
+Samin Moradkhan 
+James Ryan Martin
+
+Contributions:
+Samin Worked on the functions and commenting in date.cpp and date.hpp 
+
+Ryan worked on functions and commenting in time.cpp and time.hpp 
+
+We both worked on creating the main file, commenting and 
+Debugging all the files together.
